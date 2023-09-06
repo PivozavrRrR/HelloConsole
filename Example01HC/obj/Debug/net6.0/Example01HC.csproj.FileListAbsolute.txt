@@ -1,0 +1,15 @@
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\bin\Debug\net6.0\Example01HC.exe
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\bin\Debug\net6.0\Example01HC.deps.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\bin\Debug\net6.0\Example01HC.runtimeconfig.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\bin\Debug\net6.0\Example01HC.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\bin\Debug\net6.0\Example01HC.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.csproj.AssemblyReference.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.AssemblyInfoInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.AssemblyInfo.cs
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.csproj.CoreCompileInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\refint\Example01HC.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\Example01HC.genruntimeconfig.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Example01HC\obj\Debug\net6.0\ref\Example01HC.dll
