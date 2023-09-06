@@ -1,0 +1,15 @@
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\bin\Debug\net6.0\Exmp05IFELSE.exe
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\bin\Debug\net6.0\Exmp05IFELSE.deps.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\bin\Debug\net6.0\Exmp05IFELSE.runtimeconfig.json
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\bin\Debug\net6.0\Exmp05IFELSE.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\bin\Debug\net6.0\Exmp05IFELSE.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.csproj.AssemblyReference.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.AssemblyInfoInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.AssemblyInfo.cs
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\refint\Exmp05IFELSE.dll
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.pdb
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\Exmp05IFELSE.genruntimeconfig.cache
+C:\Users\da_ne\OneDrive\Рабочий стол\gbLearn\InProgress\Examples\Exmp05IFELSE\obj\Debug\net6.0\ref\Exmp05IFELSE.dll
